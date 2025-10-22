@@ -1,5 +1,6 @@
 import './App.css'
 import MainContent from './components/MainContent'
+import PrecoDemolidor from './components/PrecoDemolidor';
 
 function App() {
 return (
@@ -7,6 +8,7 @@ return (
       
       <main>
         <MainContent />
+        <PrecoDemolidor />
       </main>
 )  
   
